@@ -10,6 +10,6 @@ flask-custom-kit/
 │       │       └── health.html
 │       └── utils.py            # Decorators/helpers
 ├── tests/
-│   └── test_extension.py
+│   └── app.py
 ├── pyproject.toml              # Build & dependency settings
 └── README.md
